@@ -73,9 +73,23 @@ AWS(Lambda, S3, ECS), CI/CD(GitHub actions)
 
 ## 🌐 Domains
 
-- **Aviation** - In-flight entertainment, O2S
-- **Child care**
-- **Investment banking**
+### Aviation
+
+- In-flight entertainment (IFE) systems, connectivity, and content streaming.
+- End-to-end O2S (Order-to-Seat) solutions and passenger experience optimization.
+- AI-driven analytics for flight operations, passenger engagement, and service personalization.
+
+### Child Care
+
+- Digital platforms for early childhood development and parental engagement.
+- Automation of daycare management processes, including scheduling, billing, attendance, and reporting.
+- Solutions tailored for European daycare industry standards and regulations.
+
+### Investment Banking
+
+- FinTech solutions for trading, risk management, and portfolio analytics.
+- Automated workflows and reporting using AI and cloud-based systems.
+- Secure, scalable back-office infrastructure integrating multiple financial platforms.
 
 ---
 
