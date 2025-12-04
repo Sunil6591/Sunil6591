@@ -2,14 +2,10 @@
   "version": 2,
   "buildCommand": null,
   "outputDirectory": ".",
-  "routes": [
+  "rewrites": [
     {
-      "src": "/",
-      "dest": "/my-profile.html"
-    },
-    {
-      "src": "/my-profile.html",
-      "dest": "/my-profile.html"
+      "source": "/",
+      "destination": "/my-profile.html"
     }
   ],
   "headers": [
