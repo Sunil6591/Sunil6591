@@ -19,12 +19,12 @@ I'm an **Engineering Director** with **20 years** of experience, including **10+
 ### 🚀 Engineering Director — <img src="https://airfi.aero/wp-content/uploads/2024/05/favicon.png" alt="AirFi Aero" width="16" height="16" /> AirFi Aero (Remote)
 **2022—Present**
 
-#### 🤖 AI Initiatives
+#### AI Initiatives
 - Built an **AI-driven log analysis & prediction engine**
 - Created **LangChain / LangGraph** reasoning pipelines
 - Automated QA workflows with LLM agents
 
-#### 👥 Leadership
+#### Leadership
 - Owned **roadmaps**, quarterly planning, OKRs
 - Modernized platform reliability & release workflows
 - Led global remote engineering teams
@@ -36,7 +36,7 @@ I'm an **Engineering Director** with **20 years** of experience, including **10+
 - Architected backend for **Zaycare**
 - Built hiring pipeline & engineering culture
 
-### Developer — <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://fisglobal.com&size=16" alt="FIS" width="16" height="16" /> FIS
+### Lead Developer — <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://fisglobal.com&size=16" alt="FIS" width="16" height="16" /> FIS
 **2009—2015**
 
 - Built enterprise financial products, APIs, and integrations
