@@ -2,319 +2,32 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=yes">
+    <meta name="description" content="Sunil Joshi - Engineering Director, Startup CTO, AI Leader with 20+ years of experience in tech and 10+ years in startups">
+    <meta name="keywords" content="Engineering Director, CTO, AI Leader, Full-Stack Developer, Startup">
+    <meta name="author" content="Sunil Joshi">
+    <meta name="theme-color" content="#000000">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
     <title>Sunil Joshi - Engineering Director | Resume</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        mono: ['Courier New', 'Courier', 'monospace'],
+                    }
+                }
+            }
         }
-
+    </script>
+    <style>
         @page {
             size: letter;
             margin: 0.5in;
         }
-
-        body {
-            font-family: 'Courier New', Courier, monospace;
-            line-height: 1.6;
-            color: #000;
-            background: #f5f5f5;
-            padding: 40px 60px;
-            font-size: 12px;
-        }
-
-        .container {
-            max-width: 900px;
-            margin: 0 auto;
-            background: white;
-        }
-
-        .header {
-            padding: 20px;
-            margin-bottom: 25px;
-            display: flex;
-            justify-content: space-between;
-            align-items: flex-start;
-            gap: 20px;
-        }
-
-        .photo-container {
-            margin-bottom: 0;
-            margin-top: 60px;
-            flex-shrink: 0;
-        }
-
-        .photo-container img {
-            width: 100px;
-            height: 100px;
-            border: 4px double #000;
-            object-fit: cover;
-        }
-
-        .header-content {
-            flex: 1;
-        }
-
-        .header-content h1 {
-            font-size: 1.8em;
-            margin-bottom: 8px;
-            font-weight: bold;
-        }
-
-        .header-content .subtitle {
-            font-size: 1em;
-            color: #000;
-            margin-bottom: 15px;
-        }
-
-        .header-info {
-            margin-top: 15px;
-        }
-
-        .header-section {
-            margin-bottom: 12px;
-        }
-
-        .header-section h3 {
-            font-size: 1em;
-            margin-bottom: 5px;
-            font-weight: bold;
-        }
-
-        .contact-info {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 8px 20px;
-        }
-
-        .contact-info p {
-            font-size: 0.95em;
-            margin: 3px 0;
-            color: #000;
-        }
-
-        .contact-info a {
-            color: #000;
-            text-decoration: none;
-        }
-
-        .badges {
-            display: none;
-        }
-
-        .main-content {
-            padding: 20px;
-        }
-
-        .section {
-            margin-bottom: 20px;
-        }
-
-        .section h2 {
-            color: #000;
-            font-size: 1.3em;
-            margin-bottom: 12px;
-            margin-top: 20px;
-            padding-bottom: 0;
-            border-bottom: none;
-            font-weight: bold;
-        }
-
-        .section h2:first-of-type {
-            margin-top: 0;
-        }
-
-        .section h3 {
-            color: #000;
-            font-size: 1.1em;
-            margin: 12px 0 6px 0;
-            font-weight: bold;
-        }
-
-        .section h4 {
-            color: #000;
-            font-size: 1em;
-            margin: 8px 0 4px 0;
-            font-weight: bold;
-        }
-
-        .section p {
-            margin-bottom: 8px;
-            font-size: 1em;
-            color: #000;
-            line-height: 1.6;
-        }
-
-        .section ul {
-            list-style: none;
-            padding-left: 0;
-            margin: 8px 0;
-        }
-
-        .section ul li {
-            padding: 2px 0;
-            padding-left: 20px;
-            position: relative;
-            font-size: 1em;
-            color: #000;
-            line-height: 1.5;
-        }
-
-        .section ul li:before {
-            content: "-";
-            position: absolute;
-            left: 0;
-            color: #000;
-        }
-
-        .experience-item {
-            margin-bottom: 15px;
-            padding: 0;
-            background: transparent;
-            border: none;
-        }
-
-        .experience-item h3 {
-            margin-top: 0;
-            color: #000;
-            margin-bottom: 4px;
-        }
-
-        .experience-item .period {
-            color: #000;
-            font-size: 0.95em;
-            margin-bottom: 8px;
-            font-weight: normal;
-        }
-
-        .experience-item ul {
-            margin-top: 6px;
-        }
-
-        .projects {
-            display: block;
-        }
-
-        .project-card {
-            padding: 0;
-            background: transparent;
-            border: none;
-            margin-bottom: 12px;
-        }
-
-        .project-card h4 {
-            margin-top: 0;
-            color: #000;
-            margin-bottom: 4px;
-        }
-
-        .project-card p {
-            margin-bottom: 0;
-            font-size: 1em;
-        }
-
-        .tech-category {
-            margin-bottom: 10px;
-            padding: 0;
-        }
-
-        .tech-category h4 {
-            color: #000;
-            font-size: 1em;
-            margin-bottom: 4px;
-            font-weight: bold;
-        }
-
-        .tech-category p {
-            margin-bottom: 0;
-            font-size: 1em;
-        }
-
-        .tech-grid {
-            display: block;
-        }
-
-        @media (max-width: 768px) {
-            body {
-                padding: 20px 15px;
-            }
-
-            .container {
-                max-width: 100%;
-            }
-
-            .header {
-                flex-direction: column;
-                align-items: center;
-                text-align: center;
-                padding: 15px;
-            }
-
-            .header-content {
-                width: 100%;
-            }
-
-            .photo-container {
-                margin-bottom: 15px;
-                margin-top: 0;
-            }
-
-            .contact-info {
-                grid-template-columns: 1fr;
-                gap: 5px;
-            }
-
-            .main-content {
-                padding: 15px;
-            }
-
-            .section {
-                margin-bottom: 15px;
-            }
-
-            .section h2 {
-                font-size: 1.1em;
-            }
-
-            .section h3 {
-                font-size: 1em;
-            }
-
-            .tech-grid {
-                display: block;
-            }
-        }
-
-        @media (max-width: 480px) {
-            body {
-                padding: 10px;
-                font-size: 11px;
-            }
-
-            .header {
-                padding: 10px;
-            }
-
-            .main-content {
-                padding: 10px;
-            }
-
-            .photo-container img {
-                width: 80px;
-                height: 80px;
-            }
-
-            .header-content h1 {
-                font-size: 1.5em;
-            }
-
-            .section h2 {
-                font-size: 1em;
-            }
-        }
-
         @media print {
             body {
                 background: white;
@@ -323,144 +36,156 @@
         }
     </style>
 </head>
-<body>
-    <div class="container">
-        <div class="header">
-            <div class="header-content">
-                <h1># Sunil Joshi</h1>
-                <div class="subtitle">🚀 Engineering Director • Startup CTO • AI Leader | 20+ Years in Tech | 10+ Years in Startups</div>
+<body class="font-mono text-black bg-gray-100 py-10 px-4 md:px-16 lg:px-24 text-xs md:text-sm">
+    <div class="max-w-4xl mx-auto bg-white">
+        <!-- Header -->
+        <div class="p-5 md:p-6 mb-6 flex flex-col md:flex-row md:justify-between md:items-start gap-5">
+            <div class="flex-1">
+                <h1 class="text-2xl md:text-3xl font-bold mb-2"># Sunil Joshi</h1>
+                <div class="text-sm md:text-base mb-4">🚀 Engineering Director • Startup CTO • AI Leader | 20+ Years in Tech | 10+ Years in Startups</div>
                 
-                <div class="header-info">
+                <div class="mt-4">
                     <div>
-                        <div class="header-section">
-                            <h3>Contact</h3>
-                            <div class="contact-info">
-                                <p>📧 <a href="mailto:yo@spopsy.com">yo@spopsy.com</a></p>
-                                <p>📱 <a href="tel:+919960509991">+91 9960509991</a></p>
-                                <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="16" height="16" style="vertical-align: middle; margin-right: 4px;" /> <a href="https://www.linkedin.com/in/sunil-joshi-65409b16/">LinkedIn</a></p>
-                                <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="16" height="16" style="vertical-align: middle; margin-right: 4px;" /> <a href="https://github.com/Sunil6591">GitHub</a></p>
+                        <div class="mb-3">
+                            <h3 class="text-base font-bold mb-2">Contact</h3>
+                            <div class="grid grid-cols-1 md:grid-cols-2 gap-2 md:gap-5">
+                                <p class="text-sm">📧 <a href="mailto:yo@spopsy.com" class="text-black underline">yo@spopsy.com</a></p>
+                                <p class="text-sm">📱 <a href="tel:+919960509991" class="text-black underline">+91 9960509991</a></p>
+                                <p class="text-sm"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="16" height="16" class="inline align-middle mr-1" /> <a href="https://www.linkedin.com/in/sunil-joshi-65409b16/" class="text-black underline">LinkedIn</a></p>
+                                <p class="text-sm"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="16" height="16" class="inline align-middle mr-1" /> <a href="https://github.com/Sunil6591" class="text-black underline">GitHub</a></p>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="photo-container">
-                <img src="my-profile.png" alt="Sunil Joshi">
+            <div class="flex-shrink-0 mt-0 md:mt-16 text-center md:text-left">
+                <img src="my-profile.png" alt="Sunil Joshi" class="w-20 h-20 md:w-24 md:h-24 border-4 border-double border-black object-cover mx-auto md:mx-0">
             </div>
         </div>
 
-        <div class="main-content">
-            <div class="section">
-                <h2>👤 About Me</h2>
-                <p>I'm an <strong>Engineering Director</strong> with <strong>20 years</strong> of experience, including <strong>10+ years</strong> in fast-paced <strong>startup environments</strong>. I've built engineering teams from scratch, architected & shipped SaaS products at scale, and led multiple <strong>AI initiatives</strong> including log prediction engines, LangChain/LangGraph pipelines, and automation tools. I specialize in <strong>full-stack engineering</strong>, <strong>AI automation</strong>, <strong>product delivery</strong>, and <strong>remote leadership</strong>.</p>
+        <!-- Main Content -->
+        <div class="px-5 md:px-6 pb-6">
+            <!-- About Me -->
+            <div class="mb-5">
+                <h2 class="text-lg md:text-xl font-bold mb-3">👤 About Me</h2>
+                <p class="text-sm md:text-base leading-relaxed">I'm an <strong>Engineering Director</strong> with <strong>20 years</strong> of experience, including <strong>10+ years</strong> in fast-paced <strong>startup environments</strong>. I've built engineering teams from scratch, architected & shipped SaaS products at scale, and led multiple <strong>AI initiatives</strong> including log prediction engines, LangChain/LangGraph pipelines, and automation tools. I specialize in <strong>full-stack engineering</strong>, <strong>AI automation</strong>, <strong>product delivery</strong>, and <strong>remote leadership</strong>.</p>
             </div>
 
-            <div class="section">
-                <h2>💼 Experience</h2>
+            <!-- Experience -->
+            <div class="mb-5">
+                <h2 class="text-lg md:text-xl font-bold mb-4">💼 Experience</h2>
                 
-                <div class="experience-item">
-                    <h3>🚀 Engineering Director — AirFi Aero (Remote)</h3>
-                    <div class="period"><strong>2022—Present</strong></div>
+                <div class="mb-4">
+                    <h3 class="text-base md:text-lg font-bold mb-1"><img src="https://airfi.aero/wp-content/uploads/2024/05/favicon.png" alt="AirFi Aero" width="16" height="16" class="inline align-middle mr-1" />AirFi Aero - Engineering Director (Remote)</h3>
+                    <div class="text-sm text-gray-600 mb-3"><strong>2022—Present</strong></div>
                     
-                    <h4>🤖 AI Initiatives</h4>
-                    <ul>
-                        <li>Built an <strong>AI-driven log analysis & prediction engine</strong></li>
-                        <li>Created <strong>LangChain / LangGraph</strong> reasoning pipelines</li>
-                        <li>Automated QA workflows with LLM agents</li>
+                    <h4 class="text-sm md:text-base font-bold mt-3 mb-2">🤖 AI Initiatives</h4>
+                    <ul class="list-none pl-0 space-y-1">
+                        <li class="pl-5 relative before:content-['-'] before:absolute before:left-0">Built an <strong>AI-driven log analysis & prediction engine</strong></li>
+                        <li class="pl-5 relative before:content-['-'] before:absolute before:left-0">Created <strong>LangChain / LangGraph</strong> reasoning pipelines</li>
+                        <li class="pl-5 relative before:content-['-'] before:absolute before:left-0">Automated QA workflows with LLM agents</li>
                     </ul>
                     
-                    <h4>👥 Leadership</h4>
-                    <ul>
-                        <li>Owned <strong>roadmaps</strong>, quarterly planning, OKRs</li>
-                        <li>Modernized platform reliability & release workflows</li>
-                        <li>Led global remote engineering teams</li>
+                    <h4 class="text-sm md:text-base font-bold mt-3 mb-2">👥 Leadership</h4>
+                    <ul class="list-none pl-0 space-y-1">
+                        <li class="pl-5 relative before:content-['-'] before:absolute before:left-0">Owned <strong>roadmaps</strong>, quarterly planning, OKRs</li>
+                        <li class="pl-5 relative before:content-['-'] before:absolute before:left-0">Modernized platform reliability & release workflows</li>
+                        <li class="pl-5 relative before:content-['-'] before:absolute before:left-0">Led global remote engineering teams</li>
                     </ul>
                 </div>
 
-                <div class="experience-item">
-                    <h3>Lead Architect — Zay.works (Remote)</h3>
-                    <div class="period"><strong>2015—2022</strong></div>
-                    <ul>
-                        <li>First engineering hire → scaled the team</li>
-                        <li>Architected backend for <strong>Zaycare</strong></li>
-                        <li>Built hiring pipeline & engineering culture</li>
+                <div class="mb-4">
+                    <h3 class="text-base md:text-lg font-bold mb-1">Zay.works - Lead Architect (Remote)</h3>
+                    <div class="text-sm text-gray-600 mb-3"><strong>2015—2022</strong></div>
+                    <ul class="list-none pl-0 space-y-1">
+                        <li class="pl-5 relative before:content-['-'] before:absolute before:left-0">First engineering hire → scaled the team</li>
+                        <li class="pl-5 relative before:content-['-'] before:absolute before:left-0">Architected backend for <strong>Zaycare</strong></li>
+                        <li class="pl-5 relative before:content-['-'] before:absolute before:left-0">Built hiring pipeline & engineering culture</li>
                     </ul>
                 </div>
 
-                <div class="experience-item">
-                    <h3>Developer — FIS</h3>
-                    <div class="period"><strong>2009—2015</strong></div>
-                    <ul>
-                        <li>Built enterprise financial products, APIs, and integrations</li>
+                <div class="mb-4">
+                    <h3 class="text-base md:text-lg font-bold mb-1"><img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://fisglobal.com&size=16" alt="FIS" width="16" height="16" class="inline align-middle mr-1" />FIS - Developer</h3>
+                    <div class="text-sm text-gray-600 mb-3"><strong>2009—2015</strong></div>
+                    <ul class="list-none pl-0 space-y-1">
+                        <li class="pl-5 relative before:content-['-'] before:absolute before:left-0">Built enterprise financial products, APIs, and integrations</li>
                     </ul>
                 </div>
 
-                <div class="experience-item">
-                    <h3>Developer — Mastek</h3>
-                    <div class="period"><strong>2005—2009</strong></div>
-                    <ul>
-                        <li>Enterprise application development using .NET & SQL</li>
+                <div class="mb-4">
+                    <h3 class="text-base md:text-lg font-bold mb-1"><img src="https://www.mastek.com/favicon.ico" alt="Mastek" width="16" height="16" class="inline align-middle mr-1" />Mastek - Developer</h3>
+                    <div class="text-sm text-gray-600 mb-3"><strong>2005—2009</strong></div>
+                    <ul class="list-none pl-0 space-y-1">
+                        <li class="pl-5 relative before:content-['-'] before:absolute before:left-0">Enterprise application development using .NET & SQL</li>
                     </ul>
                 </div>
             </div>
 
-            <div class="section">
-                <h2>🛠️ Tech Stack</h2>
-                <div class="tech-grid">
-                    <div class="tech-category">
-                        <h4>Languages & Frameworks</h4>
-                        <p>Node.js, TypeScript, React, Next.js, React Native, Tailwind CSS</p>
+            <!-- Tech Stack -->
+            <div class="mb-5">
+                <h2 class="text-lg md:text-xl font-bold mb-4">🛠️ Tech Stack</h2>
+                <div class="space-y-3">
+                    <div>
+                        <h4 class="text-sm md:text-base font-bold mb-1">Languages & Frameworks</h4>
+                        <p class="text-sm md:text-base">Node.js, TypeScript, React, Next.js, React Native, Tailwind CSS</p>
                     </div>
-                    <div class="tech-category">
-                        <h4>Backend & Architecture</h4>
-                        <p>GraphQL, tRPC, Express.js, MongoDB, SQL/PostgreSQL</p>
+                    <div>
+                        <h4 class="text-sm md:text-base font-bold mb-1">Backend & Architecture</h4>
+                        <p class="text-sm md:text-base">GraphQL, Express.js, MongoDB, SQL/PostgreSQL</p>
                     </div>
-                    <div class="tech-category">
-                        <h4>AI & Automation</h4>
-                        <p>LangChain, LangGraph, N8N, Vector DBs, Embeddings</p>
+                    <div>
+                        <h4 class="text-sm md:text-base font-bold mb-1">AI & Automation</h4>
+                        <p class="text-sm md:text-base">LangChain, LangGraph, N8N, Vector DBs, Embeddings</p>
                     </div>
-                    <div class="tech-category">
-                        <h4>Cloud & DevOps</h4>
-                        <p>AWS(Lambda, S3, ECS), CI/CD(GitHub actions)</p>
+                    <div>
+                        <h4 class="text-sm md:text-base font-bold mb-1">Cloud & DevOps</h4>
+                        <p class="text-sm md:text-base">AWS(Lambda, S3, ECS), CI/CD(GitHub actions)</p>
                     </div>
                 </div>
             </div>
 
-            <div class="section">
-                <h2>🌐 Domains</h2>
+            <!-- Domains -->
+            <div class="mb-5">
+                <h2 class="text-lg md:text-xl font-bold mb-4">🌐 Domains</h2>
                 
-                <h3>Aviation</h3>
-                <ul>
-                    <li>In-flight entertainment (IFE) systems, connectivity, and content streaming.</li>
-                    <li>End-to-end O2S (Order-to-Seat) solutions and passenger experience optimization.</li>
-                    <li>AI-driven analytics for flight operations, passenger engagement, and service personalization.</li>
-                </ul>
-                
-                <h3>Child Care</h3>
-                <ul>
-                    <li>Digital platforms for early childhood development and parental engagement.</li>
-                    <li>Automation of daycare management processes, including scheduling, billing, attendance, and reporting.</li>
-                    <li>Solutions tailored for European daycare industry standards and regulations.</li>
-                </ul>
-                
-                <h3>Investment Banking</h3>
-                <ul>
-                    <li>FinTech solutions for trading, risk management, and portfolio analytics.</li>
-                    <li>Automated workflows and reporting and cloud-based systems.</li>
-                    <li>Secure, scalable back-office infrastructure integrating multiple financial platforms.</li>
-                </ul>
-            </div>
-
-            <div class="section">
-                <h2>🎓 Education</h2>
-                <div class="experience-item">
-                    <p>Masters in Computer Application — Pune University</p>
+                <div class="mb-4">
+                    <h3 class="text-base md:text-lg font-bold mb-2">Aviation</h3>
+                    <ul class="list-none pl-0 space-y-1">
+                        <li class="pl-5 relative before:content-['-'] before:absolute before:left-0">In-flight entertainment (IFE) systems, connectivity, and content streaming.</li>
+                        <li class="pl-5 relative before:content-['-'] before:absolute before:left-0">End-to-end O2S (Order-to-Seat) solutions and passenger experience optimization.</li>
+                        <li class="pl-5 relative before:content-['-'] before:absolute before:left-0">AI-driven analytics for flight operations, passenger engagement, and service personalization.</li>
+                    </ul>
                 </div>
-                <div class="experience-item">
-                    <p>Bachelors in Computer Science — Pune University</p>
+                
+                <div class="mb-4">
+                    <h3 class="text-base md:text-lg font-bold mb-2">Child Care</h3>
+                    <ul class="list-none pl-0 space-y-1">
+                        <li class="pl-5 relative before:content-['-'] before:absolute before:left-0">Digital platforms for early childhood development and parental engagement.</li>
+                        <li class="pl-5 relative before:content-['-'] before:absolute before:left-0">Automation of daycare management processes, including scheduling, billing, attendance, and reporting.</li>
+                        <li class="pl-5 relative before:content-['-'] before:absolute before:left-0">Solutions tailored for European daycare industry standards and regulations.</li>
+                    </ul>
+                </div>
+                
+                <div class="mb-4">
+                    <h3 class="text-base md:text-lg font-bold mb-2">Investment Banking</h3>
+                    <ul class="list-none pl-0 space-y-1">
+                        <li class="pl-5 relative before:content-['-'] before:absolute before:left-0">FinTech solutions for trading, risk management, and portfolio analytics.</li>
+                        <li class="pl-5 relative before:content-['-'] before:absolute before:left-0">Automated workflows and reporting and cloud-based systems.</li>
+                        <li class="pl-5 relative before:content-['-'] before:absolute before:left-0">Secure, scalable back-office infrastructure integrating multiple financial platforms.</li>
+                    </ul>
                 </div>
             </div>
 
+            <!-- Education -->
+            <div class="mb-5">
+                <h2 class="text-lg md:text-xl font-bold mb-4">🎓 Education</h2>
+                <div class="mb-3">
+                    <p class="text-sm md:text-base">Masters in Computer Application — Pune University</p>
+                </div>
+                <div class="mb-3">
+                    <p class="text-sm md:text-base">Bachelors in Computer Science — Pune University</p>
+                </div>
+            </div>
         </div>
     </div>
 </body>

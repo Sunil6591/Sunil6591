@@ -16,7 +16,7 @@ I'm an **Engineering Director** with **20 years** of experience, including **10+
 
 ## 💼 Experience
 
-### 🚀 Engineering Director — AirFi Aero (Remote)
+### 🚀 Engineering Director — <img src="https://airfi.aero/wp-content/uploads/2024/05/favicon.png" alt="AirFi Aero" width="16" height="16" /> AirFi Aero (Remote)
 **2022—Present**
 
 #### 🤖 AI Initiatives
@@ -36,12 +36,12 @@ I'm an **Engineering Director** with **20 years** of experience, including **10+
 - Architected backend for **Zaycare**
 - Built hiring pipeline & engineering culture
 
-### Developer — FIS
+### Developer — <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://fisglobal.com&size=16" alt="FIS" width="16" height="16" /> FIS
 **2009—2015**
 
 - Built enterprise financial products, APIs, and integrations
 
-### Developer — Mastek
+### Developer — <img src="https://www.mastek.com/favicon.ico" alt="Mastek" width="16" height="16" /> Mastek
 **2005—2009**
 
 - Enterprise application development using .NET & SQL
