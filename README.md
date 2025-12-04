@@ -48,20 +48,13 @@ I'm an **Engineering Director** with **20 years** of experience, including **10+
 
 ---
 
-## 🎓 Education
-
-- **Masters in Computer Application** — Pune University
-- **Bachelors in Computer Science** — Pune University
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
 Node.js, TypeScript, React, Next.js, React Native, Tailwind CSS
 
 ### Backend & Architecture
-GraphQL, Express.js, MongoDB, SQL/PostgreSQL
+GraphQL, tRPC, Express.js, MongoDB, SQL/PostgreSQL
 
 ### AI & Automation
 LangChain, LangGraph, N8N, Vector DBs, Embeddings
@@ -90,6 +83,26 @@ AWS(Lambda, S3, ECS), CI/CD(GitHub actions)
 - FinTech solutions for trading, risk management, and portfolio analytics.
 - Automated workflows and reporting and cloud-based systems.
 - Secure, scalable back-office infrastructure integrating multiple financial platforms.
+
+---
+
+## 🎓 Education
+
+- **Masters in Computer Application** — Pune University
+- **Bachelors in Computer Science** — Pune University
+
+---
+
+## 🚀 Deployment
+
+This profile is automatically deployed to Vercel on every push to the main branch.
+
+**Live Site:** [View Profile](https://sunil6591.vercel.app)
+
+To deploy manually:
+1. Connect your GitHub repository to [Vercel](https://vercel.com)
+2. Vercel will automatically detect the static HTML site
+3. Deployments happen automatically on every push to main
 
 ---
 
