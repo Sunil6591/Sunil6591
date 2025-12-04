@@ -2,8 +2,6 @@
 
 🚀 Engineering Director • Startup CTO • AI Leader | 20+ Years in Tech | 10+ Years in Startups
 
-![Profile Picture](my-profile.png)
-
 ## Contact
 
 📧 [yo@spopsy.com](mailto:yo@spopsy.com) | 📱 +91 9960509991 | 💼 [LinkedIn](https://www.linkedin.com/in/sunil-joshi-65409b16/) | 🐙 [GitHub](https://github.com/Sunil6591) | 📦 [Repository](https://github.com/Sunil6591/Sunil6591)
