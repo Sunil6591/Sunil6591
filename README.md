@@ -88,18 +88,8 @@ AWS(Lambda, S3, ECS), CI/CD(GitHub actions)
 ### Investment Banking
 
 - FinTech solutions for trading, risk management, and portfolio analytics.
-- Automated workflows and reporting using AI and cloud-based systems.
+- Automated workflows and reporting and cloud-based systems.
 - Secure, scalable back-office infrastructure integrating multiple financial platforms.
-
----
-
-## 🚀 Side Projects
-
-### Kathanik.in — Marathi Audiobook Platform
-Built content platform end-to-end.
-
-### TravelHey.in — Travel & Photo Blog
-Created a full content distribution system.
 
 ---
 
