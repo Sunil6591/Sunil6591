@@ -50,24 +50,32 @@ I'm an **Engineering Director** with **20 years** of experience, including **10+
 
 ## 🎓 Education
 
-- **MCA** — IMCC, Pune
-- **BSc Computer Science** — Garware College
+- **Masters in Computer Application** — Pune University
+- **Bachelors in Computer Science** — Pune University
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
-Node.js, React, Next.js, React Native
+Node.js, TypeScript, React, Next.js, React Native, Tailwind CSS
 
 ### Backend & Architecture
 GraphQL, Express.js, MongoDB, SQL/PostgreSQL
 
 ### AI & Automation
-LangChain, LangGraph, Vector DBs, Embeddings
+LangChain, LangGraph, N8N, Vector DBs, Embeddings
 
 ### Cloud & DevOps
-AWS, CI/CD, Logging & Monitoring
+AWS(Lambda, S3, ECS), CI/CD(GitHub actions)
+
+---
+
+## 🌐 Domains
+
+- **Aviation** - In-flight entertainment, O2S
+- **Child care**
+- **Investment banking**
 
 ---
 
