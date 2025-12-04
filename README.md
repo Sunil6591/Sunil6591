@@ -4,7 +4,7 @@
 
 ## Contact
 
-📧 [yo@spopsy.com](mailto:yo@spopsy.com) | 📱 +91 9960509991 | 💼 [LinkedIn](https://www.linkedin.com/in/sunil-joshi-65409b16/) | 🐙 [GitHub](https://github.com/Sunil6591) | 📦 [Repository](https://github.com/Sunil6591/Sunil6591)
+📧 [yo@spopsy.com](mailto:yo@spopsy.com) | 📱 +91 9960509991 | <img src="https://cdn.simpleicons.org/linkedin/0077B5" alt="LinkedIn" width="16" height="16" /> [LinkedIn](https://www.linkedin.com/in/sunil-joshi-65409b16/) | <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="16" height="16" /> [GitHub](https://github.com/Sunil6591)
 
 **Git Repository:** `git@github.com:Sunil6591/Sunil6591.git`
 
