@@ -10,7 +10,9 @@
 
 ## 👤 About Me
 
-I'm an **Engineering Director** with **20 years** of experience, including **10+ years** in fast-paced **startup environments**. I've built engineering teams from scratch, architected & shipped SaaS products at scale, and led multiple **AI initiatives** including log prediction engines, LangChain/LangGraph pipelines, and automation tools. I specialize in **full-stack engineering**, **AI automation**, **product delivery**, and **remote leadership**.
+I'm a senior technology leader with **20+ years** in software engineering, including **10+ years** building and scaling products in fast-paced startups. I specialize in **full-stack product engineering**, **AI/automation**, **cloud architecture**, and leading high-ownership engineering teams.
+
+My focus is building lean, scalable, maintainable systems that solve real business problems — from modernizing legacy platforms to shipping new SaaS products end-to-end. I enjoy bridging tech + product, simplifying complexity, and enabling teams to deliver consistently through clean architecture and strong engineering culture.
 
 ---
 
@@ -20,16 +22,16 @@ I'm an **Engineering Director** with **20 years** of experience, including **10+
 **2022—Present**
 
 #### AI Initiatives
-- Built an **AI-driven log analysis & prediction engine**
-- Created **LangChain / LangGraph** reasoning pipelines
+- Built a **Travel Concierge Agent** for travel recommendations, operational support, and real-time assistance
+- **AI-driven log analysis & prediction system** built using LangChain & LangGraph — reduced incident triage time.
 - Automated QA workflows with LLM agents
 
 #### Leadership
 - Owned **roadmaps**, quarterly planning, OKRs
-- Modernized platform reliability & release workflows
-- Led global remote engineering teams
+- Modernized engineering workflows using CI/CD, automation, observability, improving delivery velocity by 40%.
+- Led distributed teams (8–25 engineers) across frontend, backend, QA, AI/ML, and DevOps.
 
-### Lead Architect — Zay.works (Remote)
+### Lead Architect — <img src="zay.works.jpg" alt="Zay.works" width="16" height="16" /> Zay.works (Remote)
 **2015—2022**
 
 - First engineering hire → scaled the team
@@ -60,7 +62,7 @@ GraphQL, tRPC, Express.js, MongoDB, SQL/PostgreSQL
 LangChain, LangGraph, N8N, Vector DBs, Embeddings
 
 ### Cloud & DevOps
-AWS(Lambda, S3, ECS), CI/CD(GitHub actions)
+AWS Serverless Stack — Lambda, API Gateway, EventBridge, SQS, CI/CD(GitHub actions)
 
 ---
 
@@ -78,18 +80,11 @@ AWS(Lambda, S3, ECS), CI/CD(GitHub actions)
 - Automation of daycare management processes, including scheduling, billing, attendance, and reporting.
 - Solutions tailored for European daycare industry standards and regulations.
 
-### Investment Banking
-
-- FinTech solutions for trading, risk management, and portfolio analytics.
-- Automated workflows and reporting and cloud-based systems.
-- Secure, scalable back-office infrastructure integrating multiple financial platforms.
-
 ---
 
 ## 🎓 Education
 
 - **Masters in Computer Application** — Pune University
-- **Bachelors in Computer Science** — Pune University
 
 ---
 
