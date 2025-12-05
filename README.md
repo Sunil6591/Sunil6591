@@ -73,6 +73,8 @@ AWS Serverless Stack — Lambda, API Gateway, EventBridge, SQS, CI/CD(GitHub act
 - In-flight entertainment (IFE) systems, connectivity, and content streaming.
 - End-to-end O2S (Order-to-Seat) solutions and passenger experience optimization.
 - AI-driven analytics for flight operations, passenger engagement, and service personalization.
+- Building next-gen ADS-B intelligence platforms for real-time aircraft visibility, anomaly detection, and predictive operational insights.
+- Driving LEO-powered inflight connectivity solutions that deliver ultra-low-latency data, seamless coverage, and resilient aviation communications.
 
 ### Child Care
 
