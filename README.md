@@ -56,10 +56,10 @@ My focus is building lean, scalable, maintainable systems that solve real busine
 Node.js, TypeScript, React, Next.js, React Native, Tailwind CSS
 
 ### Backend & Architecture
-GraphQL, tRPC, Express.js, MongoDB, SQL/PostgreSQL
+GraphQL, tRPC, Express.js, MongoDB, SQL/PostgreSQL, Supabase
 
 ### AI & Automation
-LangChain, LangGraph, N8N, Vector DBs, Embeddings
+LangChain, LangGraph, RAG, N8N, Vector DBs, Embeddings
 
 ### Cloud & DevOps
 AWS Serverless Stack — Lambda, API Gateway, EventBridge, SQS, CI/CD(GitHub actions)
