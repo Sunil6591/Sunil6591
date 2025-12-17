@@ -43,7 +43,7 @@ My focus is building lean, scalable, maintainable systems that solve real busine
 
 - Built enterprise financial products, APIs, and integrations
 
-### Developer — <img src="https://www.mastek.com/favicon.ico" alt="Mastek" width="16" height="16" /> Mastek
+### Developer — <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.mastek.com/favicon.ico" alt="Mastek" width="16" height="16" /> Mastek
 **2005—2009**
 
 - Enterprise application development using .NET & SQL
