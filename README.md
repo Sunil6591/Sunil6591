@@ -12,75 +12,107 @@
 
 I'm a senior technology leader with **20+ years** in software engineering, including **10+ years** building and scaling products in fast-paced startups. I specialize in **full-stack product engineering**, **AI/automation**, **cloud architecture**, and leading high-ownership engineering teams.
 
+---
+
+## 💎 Value Proposition
+
 My focus is building lean, scalable, maintainable systems that solve real business problems — from modernizing legacy platforms to shipping new SaaS products end-to-end. I enjoy bridging tech + product, simplifying complexity, and enabling teams to deliver consistently through clean architecture and strong engineering culture.
 
 ---
 
-## 💼 Experience
+## ⭐ Key Highlights
 
-### 🚀 Engineering Director — <img src="https://airfi.aero/wp-content/uploads/2024/05/favicon.png" alt="AirFi Aero" width="16" height="16" /> AirFi Aero (Remote)
-**2022—Present**
+- Led the conception and delivery of **Wingman**, the aviation industry's first inflight AI chatbot for real-time passenger trip planning, showcased as an industry-first innovation at Aircraft Interiors Expo (AIX) 2025, Hamburg — April 8–10. [Link](https://airfi.aero/airfi-launches-wingman-ai-chatbot-for-passenger-trip-planning-inflight/)
 
-#### AI Initiatives
-- Built a **Travel Concierge Agent** for travel recommendations, operational support, and real-time assistance
-- **AI-driven log analysis & prediction system** built using LangChain & LangGraph — reduced incident triage time.
-- Automated QA workflows with LLM agents
+- Conceptualized and led the end-to-end LEO inflight connectivity platform, scaling deployments from **2 initial installations** to **50 firm aircraft commitments**, while designing real-time analytics dashboards providing actionable insights on connectivity performance, passenger usage, system health, and airline operational KPIs.
 
-#### Leadership
-- Owned **roadmaps**, quarterly planning, OKRs
-- Modernized engineering workflows using CI/CD, automation, observability, improving delivery velocity by 40%.
-- Led distributed teams (8–25 engineers) across frontend, backend, QA, AI/ML, and DevOps.
+- Scaled AirFi platform to **309K+ flights** and **9.5M+ passengers**, supported by real-time analytics dashboards driving operational, product, and commercial insights.
 
-### Lead Architect — <img src="zay.works.jpg" alt="Zay.works" width="16" height="16" /> Zay.works (Remote)
-**2015—2022**
-
-- First engineering hire → scaled the team
-- Architected backend for **Zaycare**
-- Built hiring pipeline & engineering culture
-
-### Lead Developer — <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://fisglobal.com&size=16" alt="FIS" width="16" height="16" /> FIS
-**2009—2015**
-
-- Built enterprise financial products, APIs, and integrations
-
-### Developer — <img src="https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.mastek.com/favicon.ico" alt="Mastek" width="16" height="16" /> Mastek
-**2005—2009**
-
-- Enterprise application development using .NET & SQL
+- First engineering hire at Zay.works, played a pivotal role in scaling the organization to **25 employees**, establishing the engineering foundation, hiring pipeline, and team structure.
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Professional Experience
 
-### Languages & Frameworks
-Node.js, TypeScript, React, Next.js, React Native, Tailwind CSS
+### AirFi Aero — Engineering Director
+**2022 — Present**
 
-### Backend & Architecture
-GraphQL, tRPC, Express.js, SSE, MongoDB, SQL/PostgreSQL, Supabase
+#### AI & Platform Innovation
 
-### AI & Automation
-LangChain, LangGraph, RAG, N8N, Vector DBs, Embeddings
+- Led AI initiatives including **Wingman**, an inflight AI assistant for travel recommendations, operational support, and real-time passenger assistance.
 
-### Cloud & DevOps
-AWS Serverless Stack — Lambda, API Gateway, EventBridge, SQS, CI/CD(GitHub actions)
+- Designed and deployed AI-driven log analysis and predictive diagnostics, reducing incident triage time and improving operational reliability.
+
+- Introduced LLM-based automation for QA workflows, accelerating test cycles and improving release confidence.
+
+#### Technology & Delivery Leadership
+
+- Owned technology roadmaps, quarterly planning, and OKRs, aligning engineering execution with business priorities.
+
+- Modernized engineering workflows through CI/CD, automation, and observability, improving delivery velocity by **~40%**.
+
+- Led and scaled distributed teams (**8–25 engineers**) across frontend, backend, QA, AI/ML, and DevOps.
+
+### Zay.works — Lead Architect
+**2015 — 2022**
+
+- First engineering hire, played a key role in scaling the organization to **25 employees** by building the core engineering team and hiring pipeline.
+
+- Architected the backend platform for **Zaycare**, enabling scalable, secure product delivery.
+
+- Established engineering culture, standards, and processes, supporting sustainable growth and remote collaboration.
+
+### FIS — Lead Developer
+**2009 — 2015**
+
+- Built and maintained enterprise-grade financial platforms, APIs, and system integrations for global clients.
+
+- Collaborated with cross-functional teams to deliver secure, high-availability solutions in regulated environments.
+
+### Mastek — Software Developer
+**2005 — 2009**
+
+- Contributed to enterprise application development using .NET and SQL Server.
+
+- Gained strong foundations in software engineering, data modeling, and large-scale system delivery.
 
 ---
 
-## 🌐 Domains
+## 🛠️ Technology Leadership & Platforms
 
-### Aviation
+• Scalable SaaS & Platform Architecture
 
-- In-flight entertainment (IFE) systems, connectivity, and content streaming.
-- End-to-end O2S (Order-to-Seat) solutions and passenger experience optimization.
-- AI-driven analytics for flight operations, passenger engagement, and service personalization.
-- Building next-gen ADS-B intelligence platforms for real-time aircraft visibility, anomaly detection, and predictive operational insights.
-- Driving LEO-powered inflight connectivity solutions that deliver ultra-low-latency data, seamless coverage, and resilient aviation communications.
+• Cloud-Native & Serverless Systems (AWS)
 
-### Child Care
+• Data, Analytics & AI-Driven Products
 
-- Digital platforms for early childhood development and parental engagement.
-- Automation of daycare management processes, including scheduling, billing, attendance, and reporting.
-- Solutions tailored for European daycare industry standards and regulations.
+• Event-Driven & Distributed Systems
+
+• Security, Reliability & Cost Optimization
+
+---
+
+## 🌐 Domain Expertise
+
+### Aviation & Inflight Digital Platforms
+
+- Inflight Entertainment (**IFE**) and Connectivity Platforms, including content streaming, passenger engagement, and aircraft-integrated systems.
+
+- End-to-end **Order-to-Seat (O2S)** digital solutions, optimizing passenger experience from booking through inflight service delivery.
+
+- **AI-driven** analytics platforms for flight operations, passenger behavior, content performance, and service personalization.
+
+- Next-generation **ADS-B** intelligence systems, enabling real-time aircraft visibility, anomaly detection, and predictive operational insights.
+
+- **LEO-powered** inflight connectivity solutions, delivering ultra-low-latency, resilient communications for global aviation environments.
+
+### Childcare & Education Technology
+
+- Digital platforms for early childhood education, parent engagement, and caregiver collaboration.
+
+- Automation of daycare operations, including scheduling, attendance, billing, compliance reporting, and operational analytics.
+
+- Solutions aligned with **European childcare standards** and regulations, supporting scalability and regulatory compliance.
 
 ---
 
