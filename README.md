@@ -122,16 +122,3 @@ My focus is building lean, scalable, maintainable systems that solve real busine
 
 ---
 
-## 🚀 Deployment
-
-This profile is automatically deployed to Vercel on every push to the main branch.
-
-**Live Site:** [View Profile](https://sunil6591.vercel.app)
-
-To deploy manually:
-1. Connect your GitHub repository to [Vercel](https://vercel.com)
-2. Vercel will automatically detect the static HTML site
-3. Deployments happen automatically on every push to main
-
----
-
