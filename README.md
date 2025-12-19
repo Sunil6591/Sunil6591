@@ -16,7 +16,7 @@ I'm a senior technology leader with **20+ years** in software engineering, inclu
 
 ## 💎 Value Proposition
 
-My focus is building lean, scalable, maintainable systems that solve real business problems — from modernizing legacy platforms to shipping new SaaS products end-to-end. I enjoy bridging tech + product, simplifying complexity, and enabling teams to deliver consistently through clean architecture and strong engineering culture.
+I help organizations turn technology into a growth engine by modernizing platforms, launching AI-powered products end-to-end, and building strong engineering cultures. I bridge technology, product, and business, simplify complexity, and enable teams to deliver reliably through clean architecture, data-driven decisions, and operational excellence.
 
 ---
 
