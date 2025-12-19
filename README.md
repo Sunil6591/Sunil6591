@@ -43,7 +43,7 @@ I help organizations turn technology into a growth engine by modernizing platfor
 
 - Designed and deployed AI-driven log analysis and predictive diagnostics, reducing incident triage time and improving operational reliability.
 
-- Introduced LLM-based automation for QA workflows, accelerating test cycles and improving release confidence.
+- Introduced LLM-based automation for QA workflows, reducing test case creation time from **hours to minutes** and accelerating test cycles by **~60%**, improving release confidence.
 
 #### Technology & Delivery Leadership
 
