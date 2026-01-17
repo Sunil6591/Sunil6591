@@ -122,3 +122,25 @@ I help organizations turn technology into a growth engine by modernizing platfor
 
 ---
 
+## 🚀 Projects
+
+### WingMan — AI Travel Assistant
+
+Led the conception and delivery of **WingMan**, the aviation industry's first inflight AI chatbot for real-time passenger trip planning. This industry-first innovation was showcased at Aircraft Interiors Expo (AIX) 2025 in Hamburg.
+
+WingMan leverages LEO connectivity to deliver hyper-personalized, real-time travel itineraries to passengers while in flight. The system processes user preferences through an advanced AI algorithm, generating customized trip plans within seconds. The platform continuously refines recommendations by learning from user interactions and accessing real-time local information.
+
+**Tech Stack:** LangChain, LangGraph, RAG, Node.js, React, LEO Connectivity, Real-time Systems
+
+[Learn more](https://airfi.aero/airfi-launches-wingman-ai-chatbot-for-passenger-trip-planning-inflight/)
+
+### AI-Driven Log Analysis & Prediction System
+
+Designed and deployed an **AI-driven log analysis and predictive diagnostics** system using LangChain and LangGraph. The system analyzes application logs in real-time to identify patterns, predict potential issues, and provide actionable insights for proactive incident management.
+
+The platform significantly **reduced incident triage time** by automating log analysis and enabling predictive maintenance. It processes large volumes of log data, identifies anomalies, and generates intelligent recommendations for operational reliability improvements.
+
+**Tech Stack:** LangChain, LangGraph, Vector DBs, Embeddings, Node.js, Real-time Analytics, AWS Serverless
+
+---
+
