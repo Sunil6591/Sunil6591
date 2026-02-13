@@ -143,4 +143,3 @@ The platform significantly **reduced incident triage time** by automating log an
 **Tech Stack:** LangChain, LangGraph, Vector DBs, Embeddings, Node.js, Real-time Analytics, AWS Serverless
 
 ---
-
